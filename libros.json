@@ -1,0 +1,126 @@
+{"apiName":"Libros.",
+    "origin":"Querétaro",
+    "created":2022,
+    "figures":[
+        {
+            "id":1,
+            "name":"Boulevard.",
+            "date":"17 de mayo de 2020",
+            "author":"Flor M. Salvador",
+            "des":" ¿Quién dijo que después de la tormenta sale el sol, cuando puede haber un rayo? Luke Howland, lleno de problemas y sumido en una desesperacion profunda, y Hasley Weigel, tan despitada como optimista, no se ajustan al prototipo de pareja perfecta. Como si cada uno fuese un cielo, uno es tormenta y el otro, un día soleado: él es oscuridad. Ella, un rayo de sol. Y, sin embargo, juntos, decidieron ponerle nombre a lo qeu habían creado: un boulevard teñido de tonos grisáceos y de axules celestes y eléctricos preparándose para la tormenta. Ella era para él y él para ella.",
+            "figure":"https://drive.google.com/uc?export=view&id=1C2gv186IaZy8OTxlpkBxbiLrV5r9FHa3"
+        },
+        {
+            "id":2,
+            "name":"Después de él.",
+            "date":"14 de julio de 2022",
+            "author":"Flor M. Salvador",
+            "des":"Tras la muerte de Luke, Hasley debe seguir con su vida, pasar página y mirar hacia adelante.  Cuando su madre le dice que es hora de continuar y dejar el pasado atrás esas palabras se le clavan como puñales en el alma, pero no por ello son menos ciertas. Hasley es joven y tiene todo el tiempo del mundo para rehacer su vida y conocer a alguien más. La vida está llena de oportunidad. Quizás no para Luke, pero sí para Hasley y ella sabe que él hubiese querido que ella continuase su camino y cumpliese sus sueños. Todo cobra un nuevo sentido con la aparición de Harry Beckinsale, licenciado en derecho, dos años mayor que ella y con la vida en orden. ¿Será esta la nueva oportunidad para que los sueños de Hasley puedan descansar en paz junto a la memoria de Luke?",
+            "figure":"https://drive.google.com/uc?export=view&id="
+        },
+        {
+            "id":3,
+            "name":"Perfectos mentirosos. Mentiras y secretos.",
+            "date":"17 de septiembre de 2020",
+            "author":"Alex Mírez",
+            "des":"",
+            "figure":"https://drive.google.com/uc?export=view&id="
+        },
+        {
+            "id":4,
+            "name":"Perfectos mentirosos. Peligros y verdades.",
+            "date":"12 de noviembre de 2020",
+            "author":"Alex Mírez",
+            "des":"",
+            "figure":"https://drive.google.com/uc?export=view&id="
+        },
+        {
+            "id":5,
+            "name":"Nosotros en la luna.",
+            "date":"",
+            "author":"",
+            "des":"",
+            "figure":"https://drive.google.com/uc?export=view&id="
+        },
+        {
+            "id":6,
+            "name":"Antes de diciembre.",
+            "date":"",
+            "author":"",
+            "des":"",
+            "figure":"https://drive.google.com/uc?export=view&id="
+        },
+        {
+            "id":7,
+            "name":"Hecha de estrellas.",
+            "date":"",
+            "author":"",
+            "des":"",
+            "figure":"https://drive.google.com/uc?export=view&id="
+        },
+        {
+            "id":8,
+            "name":"El chico que dibuja constelaciones.",
+            "date":"",
+            "author":"",
+            "des":"",
+            "figure":"https://drive.google.com/uc?export=view&id="
+        },
+        {
+            "id":9,
+            "name":"Rumbo a ti.",
+            "date":"",
+            "author":"",
+            "des":"",
+            "figure":"https://drive.google.com/uc?export=view&id="
+        },
+        {
+            "id":10,
+            "name":"Un cuento perfecto.",
+            "date":"",
+            "author":"",
+            "des":"",
+            "figure":"https://drive.google.com/uc?export=view&id="
+        },
+        {
+            "id":11,
+            "name":"Ragdoll (muñeco de trapo).",
+            "date":"",
+            "author":"",
+            "des":"",
+            "figure":"https://drive.google.com/uc?export=view&id="
+        },
+        {
+            "id":12,
+            "name":"El mapa de los anhelos.",
+            "date":"",
+            "author":"",
+            "des":"",
+            "figure":"https://drive.google.com/uc?export=view&id="
+        },
+        {
+            "id":13,
+            "name":"Te espero en el fin del mundo.",
+            "date":"",
+            "author":"",
+            "des":"",
+            "figure":"https://drive.google.com/uc?export=view&id="
+        },
+        {
+            "id":14,
+            "name":"Lascivia.",
+            "date":"",
+            "author":"",
+            "des":"",
+            "figure":"https://drive.google.com/uc?export=view&id="
+        },
+        {
+            "id":15,
+            "name":"Silence.",
+            "date":"",
+            "author":"",
+            "des":"",
+            "figure":"https://drive.google.com/uc?export=view&id="
+        }
+    ]
+}
